@@ -259,10 +259,6 @@
 
 <!-- STATS -->
 
-[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/UchihaIthachi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/UchihaIthachi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <div align="center" width="100">
   <h1>Statistic</h1>
     <img
@@ -294,9 +290,6 @@
   <img  src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/profile-3d-contrib/profile-season-animate.svg"
        alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
