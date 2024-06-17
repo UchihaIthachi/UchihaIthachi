@@ -4,8 +4,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast;Fullstack+Developer;DevOps+Engineer;Software+Engineer
-" alt="Headline" />
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast;Fullstack+Developer;DevOps+Engineer;Software+Engineer" alt="Headline" />
     </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
