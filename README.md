@@ -6,7 +6,8 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
-<br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
@@ -58,6 +59,8 @@
     </div>
 </div>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- STACK -->
 <div align="center" >
@@ -101,7 +104,10 @@
     width="60px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
@@ -126,7 +132,8 @@
     alt="Maven">
     &nbsp;&nbsp;&nbsp;
 
-  </br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
@@ -168,7 +175,10 @@
     width="60px"
     alt="Karma">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
@@ -187,7 +197,10 @@
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
-  
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <!-- Tools -->
   </br>
   <h3>Tools</h3>
@@ -217,7 +230,8 @@
     alt="Docker">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  </br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
@@ -247,9 +261,8 @@
   
 </div>
 
-</br>
-</br>
-</br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- STATS -->
 <div align="center" width="100">
@@ -272,12 +285,19 @@
     src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="Dum6o GitHub Awards">
 </div>
-> 3D Contrib
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 3D Contrib
 
 <div align="center">
   <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
        alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img
@@ -286,7 +306,9 @@
 </div>
 
 
------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
@@ -297,10 +319,15 @@
         <p>Loading</p>
  </div>
 
-------
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
+Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
-Last edited on: 31/01/2022
+Last edited on: 17/06/2024
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
