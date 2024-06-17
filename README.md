@@ -259,21 +259,21 @@
 
 <!-- STATS -->
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/UchihaIthachi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/UchihaIthachi/github-profile-summary-cards) [![](https://raw.githubusercontent.com/UchihaIthachi/github-profile-summary-cards-example/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center" width="100">
   <h1>Statistic</h1>
     <img
-      src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fernandothl.21" alt="GitHub Streak">
+      src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=UchihaIthachi" alt="GitHub Streak">
   </br>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
     alt="Dum6o GitHub Stats">
   
 <!--horizontal divider(gradiant)-->
@@ -281,8 +281,8 @@
 
   </br>
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="Dum6o GitHub Awards">
+    src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+    alt="UchihaIthachi GitHub Awards">
 </div>
 
 <!--horizontal divider(gradiant)-->
