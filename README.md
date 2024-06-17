@@ -41,7 +41,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div style="overflow: hidden;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="float: right; max-width: 75%; height: auto; margin-left: 10px;" alt="GIF">
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="float: right; max-width: 60%; height: auto; margin-left: 0px;" alt="GIF">
     <ul style="list-style-type: none; padding: 0;">
         <li>✔ Call me: He/His 😊</li>
         <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
