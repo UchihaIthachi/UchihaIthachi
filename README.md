@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=UchihaIthachi&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
@@ -291,19 +291,12 @@
 ## 3D Contrib
 
 <div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
+  <img  src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/profile-3d-contrib/profile-season-animate.svg"
        alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https://github.com/Dum6o/&title=Profile%20Views"
-    alt="Profile Views">
-</div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
