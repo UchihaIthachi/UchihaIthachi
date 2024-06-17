@@ -270,32 +270,8 @@
 </div>
 
 <div align="center">
-  </br>
-  <a href="https://www.linkedin.com/in/edvardasjusius/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
-      alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/e2.edas/">
-    <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
-      alt="LinkedIn">
-  </a>
-
-  </br>
-
   <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg url=https://github.com/Dum6o/&title=Profile%20Views"
     alt="Profile Views">
 </div>
 
@@ -316,4 +292,4 @@
 Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
 
 Last edited on: 31/01/2022
-Last Edited on: 17/04/2021
+
