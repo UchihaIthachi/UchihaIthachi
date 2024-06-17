@@ -40,17 +40,17 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<a target="_blank" align="center">
-  <img align="right" top="450" height="270" width="360" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-✔ Call me: He/His 😊<br>
-✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰<br>
-✔ Seeking collaboration: Open Source projects<br>
-✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉<br>
-✔ Combative coder, undergraduate at UOM<br>
-✔ Fun fact: I constantly strive to learn something new, then sleep to let it sink in 😎
-
+<div style="overflow: hidden;">
+    <img align="right" top="450" height="270" width="360" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <ul style="list-style-type: none;">
+        <li>✔ Call me: He/His 😊</li>
+        <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
+        <li>✔ Seeking collaboration: Open Source projects</li>
+        <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
+        <li>✔ Combative coder, undergraduate at UOM</li>
+        <li>✔ Fun fact: I constantly strive to learn something new, then sleep to let it sink in 😎</li>
+    </ul>
+</div>
 
 <!-- STACK -->
 <div align="center" width="100">
