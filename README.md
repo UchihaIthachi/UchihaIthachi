@@ -40,17 +40,22 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<div style="overflow: hidden;">
-    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="float: right; max-width: 60%; height: auto; margin-left: 0px;" alt="GIF">
-    <ul style="list-style-type: none; padding: 0;">
-        <li>✔ Call me: He/His 😊</li>
-        <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
-        <li>✔ Seeking collaboration: Open Source projects</li>
-        <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
-        <li>✔ Combative coder, undergraduate at UOM</li>
-        <li>✔ Fun fact: I constantly strive to learn something new, then sleep to let it sink in 😎</li>
-    </ul>
+<div style="display: flex; align-items: flex-start;">
+    <div style="flex: 1;">
+        <ul style="list-style-type: none; padding: 0;">
+            <li>✔ Call me: He/His 😊</li>
+            <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
+            <li>✔ Seeking collaboration: Open Source projects</li>
+            <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
+            <li>✔ Combative coder, undergraduate at UOM</li>
+            <li>✔ Fun fact: I constantly strive to learn something new, then sleep to let it sink in 😎</li>
+        </ul>
+    </div>
+    <div>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width: 100%; height: auto;" alt="GIF">
+    </div>
 </div>
+
 
 <!-- STACK -->
 <div align="center" >
