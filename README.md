@@ -41,8 +41,8 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div style="overflow: hidden;">
-    <img align="right" width=300px height=225px  alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-    <ul style="list-style-type: none;">
+    <img align="right" style="max-width: 100%; height: auto;" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+    <ul style="list-style-type: none; padding: 0;">
         <li>✔ Call me: He/His 😊</li>
         <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
         <li>✔ Seeking collaboration: Open Source projects</li>
@@ -52,8 +52,9 @@
     </ul>
 </div>
 
+
 <!-- STACK -->
-<div align="center" width="100">
+<div align="center" >
   <h1>Stack</h1>
   
   <!-- Languages -->
