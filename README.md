@@ -1,3 +1,5 @@
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
@@ -38,7 +40,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
@@ -270,6 +272,12 @@
     src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="Dum6o GitHub Awards">
 </div>
+> 3D Contrib
+
+<div align="center">
+  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
+</div>
 
 <div align="center">
   <img
@@ -290,6 +298,7 @@
  </div>
 
 ------
+![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
 
