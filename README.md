@@ -6,9 +6,6 @@
     </div>
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
- </p>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-26-blue" />
@@ -32,7 +29,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Harshana Fernando, a <b>final year</b> undergraduate from the <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri Lanka ("Wisdom is all wealth")</a>.<br>
+    Hello, I am Harshana Fernando, a <b>third year</b> undergraduate from the <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri Lanka ("Wisdom is all wealth")</a>.<br>
     I am a <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;, <br>
     who is <b>obsessed</b> with <b>Web Engineering</b> and <b>Combative Coding</b>, always striving to uncover hidden patterns in data and solve challenging problems.
 </em>
@@ -45,7 +42,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="450" height="270" width="360" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 ✔ Call me: He/His 😊<br>
 ✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰<br>
