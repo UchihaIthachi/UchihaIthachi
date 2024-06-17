@@ -4,7 +4,8 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast;Fullstack+Developer;DevOps+Engineer;Software+Engineer
+" alt="Headline" />
     </div>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -47,7 +48,7 @@
     <div style="flex: 1;">
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Call me: He/His 😊</li>
-            <li>✔ Currently learning: Generative AI, NLP, AI, and algorithms 🥰</li>
+            <li>✔ Currently learning: Generative AI, NLP, AI, algorithms, DevOps, and web development 🥰</li>
             <li>✔ Seeking collaboration: Open Source projects</li>
             <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
             <li>✔ Combative coder, undergraduate at UOM</li>
@@ -55,6 +56,7 @@
         </ul>
     </div>
 </div>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -269,7 +271,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true"
     alt="Dum6o GitHub Stats">
   
 <!--horizontal divider(gradiant)-->
