@@ -280,6 +280,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="UchihaIthachi GitHub Awards">
 
+## Top languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchihaIthachi&layout=compact"
+    alt="UchihaIthachi Top lang">
+
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -301,17 +306,8 @@
   <br/>
 </div>
 
-  <!-- Light mode SVG -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/UchihaIthachi/snk/output/github-contribution-grid-snake.svg"
-  />
-  <!-- Fallback for browsers that do not support the <picture> element -->
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/UchihaIthachi/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
