@@ -30,4 +30,4 @@ jobs:
           git config user.email github-actions@github.com
           git add output/
           git commit -m "Generated GitHub profile 3D contribution SVGs"
-          git push
+          git push origin output
