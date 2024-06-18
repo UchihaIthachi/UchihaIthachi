@@ -28,8 +28,6 @@
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
     Hello, I am Harshana Fernando, a <b>third year</b> undergraduate from the <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri Lanka ("Wisdom is all wealth")</a>.<br>
@@ -55,7 +53,6 @@
         </ul>
     </div>
 </div>
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -269,10 +266,10 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img
+<img
     src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true"
     alt="Dum6o GitHub Stats">
-  
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -296,9 +293,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🐍 A Snake Eating my Contributions Graph
-	
+
 <p align = "center">
-	<img src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/snake/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
@@ -316,4 +313,3 @@ Last edited on: 17/06/2024
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-

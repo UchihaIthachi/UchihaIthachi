@@ -1,14 +1,14 @@
 name: generate animation
 
 on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */6 * * *"
+    # Run automatically every day at 8 AM Sri Lanka time (2:30 AM UTC)
+    schedule:
+      - cron: "30 2 * * *"
 
-  # allows to manually run the job at any time
+  # Allows to manually run the job at any time
   workflow_dispatch:
 
-  # run on every push on the master branch
+  # Run on every push on the master or main branch
   push:
     branches:
       - master
@@ -20,23 +20,25 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # Generates a snake game from a GitHub user (<github_user_name>) contributions graph,
+      # and outputs an SVG animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            snake/github-contribution-grid-snake.svg
+            snake/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      # Push the content of <build_dir> to a branch
+      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>,
+      # or as GitHub Pages
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: snake
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
