@@ -294,9 +294,24 @@
 
 ## 🐍 A Snake Eating my Contributions Graph
 
-<p align = "center">
-	<img src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/snake/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<picture>
+  <!-- Dark mode SVG -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/UchihaIthachi/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <!-- Light mode SVG -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/UchihaIthachi/snk/output/github-contribution-grid-snake.svg"
+  />
+  <!-- Fallback for browsers that do not support the <picture> element -->
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/UchihaIthachi/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
