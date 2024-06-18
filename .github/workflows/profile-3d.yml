@@ -1,9 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  # Run automatically every day at 8 AM Sri Lanka time (2:30 AM UTC)
-  schedule:
-    - cron: "30 2 * * *"
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,21 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate GitHub Profile 3D Contribution
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Move generated SVGs to output directory
-        run: |
-          mkdir -p output
-          mv profile-3d-contrib/*.svg output/
-
-      - name: Commit & Push SVGs to output branch
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add output/
-          git commit -m "Generated GitHub profile 3D contribution SVGs"
+          git add -A .
+          git commit -m "generated"
+          git push
