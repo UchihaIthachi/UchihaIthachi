@@ -285,7 +285,6 @@
 ## 3D Contrib
 
 <div align="center">
-<div align="center">
   <img  src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/profile-3d-contrib/profile-season-animate.svg"
        alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
