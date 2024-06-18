@@ -40,7 +40,7 @@
 </p>
 <br><br>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
+<hr>
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <ul style="list-style-type: none; padding: 0;">
@@ -67,6 +67,7 @@
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
+  <hr>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
     width="60px"
@@ -109,6 +110,7 @@
   <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
+  <hr>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
     width="60px"
@@ -177,6 +179,7 @@
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
+  <hr>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
     width="60px"
@@ -199,6 +202,7 @@
   <!-- Tools -->
   </br>
   <h3>Tools</h3>
+  <hr>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
     width="60px"
@@ -328,9 +332,10 @@
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
+<hr>
 Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
-Last edited on: 17/06/2024
+Last edited on: 19/06/2024
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
