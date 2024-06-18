@@ -59,8 +59,11 @@
 
 <!-- STACK -->
 <div align="center" >
-  <h1>Stack</h1>
-  
+  <h1>Tech Stack</h1>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
@@ -260,6 +263,9 @@
 <div align="center" width="100">
   <h1>Statistics</h1>
 
+  <!-- Horizontal divider (gradient) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Streak Stats
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UchihaIthachi" alt="GitHub Streak">
@@ -275,15 +281,18 @@
   <!-- Horizontal divider (gradient) -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
-    alt="UchihaIthachi GitHub Awards">
-
 ## Top languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchihaIthachi&layout=compact"
     alt="UchihaIthachi Top lang">
+
+  <!-- Horizontal divider (gradient) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+    alt="UchihaIthachi GitHub Awards">
 
 </div>
 
@@ -311,7 +320,7 @@
 
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading</p>
+        <p>Loading...</p>
  </div>
 
 <!--horizontal divider(gradiant)-->
