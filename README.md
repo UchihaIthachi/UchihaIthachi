@@ -258,25 +258,28 @@
 <!-- STATS -->
 
 <div align="center" width="100">
-  <h1>Statistic</h1>
-    <img
-      src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=UchihaIthachi" alt="GitHub Streak">
-  </br>
+  <h1>Statistics</h1>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## Streak Stats
 
-<img
-    src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true"
-    alt="Dum6o GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UchihaIthachi" alt="GitHub Streak">
+  
+  <!-- Horizontal divider (gradient) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## GitHub Stats
 
-  </br>
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+<img src="https://github-readme-stats.vercel.app/api?username=UchihaIthachi&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true"
+    alt="UchihaIthachi GitHub Stats">
+
+  <!-- Horizontal divider (gradient) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=UchihaIthachi&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="UchihaIthachi GitHub Awards">
+
 </div>
 
 <!--horizontal divider(gradiant)-->
@@ -284,10 +287,7 @@
 
 ## 3D Contrib
 
-<div align="center">
-  <img  src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -295,7 +295,6 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/UchihaIthachi/UchihaIthachi/output/github-contribution-grid-snake.svg" />
   
