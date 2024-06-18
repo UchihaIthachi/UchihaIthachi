@@ -285,10 +285,9 @@
 ## 3D Contrib
 
 <div align="center">
- <img
-    alt="GitHub profile 3D contribution"
-    src="https://raw.githubusercontent.com/YourGitHubUsername/YourRepositoryName/output/github-profile-3d-contrib-light.svg"
-  />
+<div align="center">
+  <img  src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
 </div>
 
 <!--horizontal divider(gradiant)-->
