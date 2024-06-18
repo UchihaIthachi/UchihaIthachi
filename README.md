@@ -12,7 +12,7 @@
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UchihaIthachi&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-DevOps-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
@@ -298,7 +298,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/UchihaIthachi/UchihaIthachi/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
