@@ -356,6 +356,17 @@
 
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
+## Thanks for Visiting!
+
+<p align="right">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece">
+</p>
+
+<audio controls autoplay>
+  <source src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/Hoist_the_Colours.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 <hr>
 
 Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
