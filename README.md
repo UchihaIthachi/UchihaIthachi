@@ -51,7 +51,7 @@
 
 </p>
 <hr>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64662f31612f66662f64663161666638333935363738643131623939623537356630653362313964352e676966.gif" width = 300px></picture>
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;" align="left">
