@@ -343,6 +343,13 @@
   <br/>
 </div>
 </div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading...</p>
+ </div>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -351,13 +358,11 @@
 
 ## Thanks for Visiting!
 
-<div align="center" style="position: relative; display: inline-block;">
-  <div id="loading-text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Loading...</p>
-  </div>
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece" onload="this.previousElementSibling.style.display='none';">
-</div>
+<p align="right">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece">
+</p>
+
+<hr>
 
 Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
