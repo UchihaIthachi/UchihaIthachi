@@ -53,6 +53,11 @@
 <hr>
 <picture> <img align="right" src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64662f31612f66662f64663161666638333935363738643131623939623537356630653362313964352e676966.gif" width = 300px></picture>
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;" align="left">
         <ul style="list-style-type: none; padding: 0;">
