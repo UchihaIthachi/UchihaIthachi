@@ -39,8 +39,9 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <hr>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 1;">
         <ul style="list-style-type: none; padding: 0;">
@@ -333,6 +334,7 @@
 ![Dino](https://github.com/sourabmaity/sourabmaity/blob/main/dino.gif)
 
 <hr>
+
 Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
 Last edited on: 19/06/2024
