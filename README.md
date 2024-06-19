@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
-        <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" height="170" width="100%">
+        <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" height="200" width="90%">
 
    </div>
   <div align=center>
@@ -37,8 +37,7 @@
     who is <b>obsessed</b> with <b>Web Engineering</b> and <b>Combative Coding</b>, always striving to uncover hidden patterns in data and solve challenging problems.
 </em>
 
-  <br>
-
+<hr>
   <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif"  />
 
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"A dream can make a man feel alive. It gives him something to live for. But when that dream is over, it is no longer a dream. It becomes a burden." - Griifth</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
