@@ -49,15 +49,12 @@
   <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </div>
 
----
-
 </p>
-<br><br>
 <hr>
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;">
+    <div style="flex: 1;" align="left">
         <ul style="list-style-type: none; padding: 0;">
             <li>✔ Call me: He/His 😊</li>
             <li>✔ Currently learning: Generative AI, NLP, AI, algorithms, DevOps, and web development 🥰</li>
@@ -329,6 +326,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
+
 ## 3D Contrib
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
