@@ -351,17 +351,13 @@
 
 ## Thanks for Visiting!
 
-<div align="right" style="position: relative; display: inline-block;">
+<div align="center" style="position: relative; display: inline-block;">
   <div id="loading-text" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading...</p>
   </div>
   <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece" onload="this.previousElementSibling.style.display='none';">
 </div>
-
-Enjoy this One Piece gif while listening to [Hoist the Colours](https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/Hoist_the_Colours.mp3).
-
-<hr>
 
 Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
