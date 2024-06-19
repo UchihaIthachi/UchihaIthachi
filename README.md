@@ -40,7 +40,7 @@
 <hr>
 <div align=center>
 <div align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" width="200" />
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" />
 </div>
 
 <div align="center">
