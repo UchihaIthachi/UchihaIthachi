@@ -37,7 +37,7 @@
 
   <br>
 
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" width="50" />
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif"  />
 
 <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"A dream can make a man feel alive. It gives him something to live for. But when that dream is over, it is no longer a dream. It becomes a burden." - Griifth</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
