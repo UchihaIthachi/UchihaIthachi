@@ -1,7 +1,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align=center>
-        <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/sukuna-fire-arrow.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="50" width="100%">
+        <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/sukuna-fire-arrow.gif" alt="Intro" height="120" width="100%">
 
    </div>
   <div align=center>
