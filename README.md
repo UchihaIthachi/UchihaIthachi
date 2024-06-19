@@ -368,10 +368,7 @@
   <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece">
 </p>
 
-<video width="0" height="0" autoplay loop>
-  <source src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/Hoist_the_Colours.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/UchihaIthachi/UchihaIthachi/assets/130031227/92c46259-e451-4148-926d-a079d9af91da
 
 <hr>
 
