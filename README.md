@@ -79,9 +79,6 @@
 <div align="center" >
   <h1>Tech Stack</h1>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   <!-- Languages -->
   </br>
   <h3>Languages</h3>
@@ -121,9 +118,6 @@
     width="60px"
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Frameworks -->
   </br>
@@ -191,9 +185,6 @@
     alt="Karma">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   <!-- Storages -->
   </br>
   <h3>Storages</h3>
@@ -213,9 +204,6 @@
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Tools -->
   </br>
@@ -284,9 +272,6 @@
 
 <div align="center" width="100">
   <h1>Statistics</h1>
-
-  <!-- Horizontal divider (gradient) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Streak Stats
 
