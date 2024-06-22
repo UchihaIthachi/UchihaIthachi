@@ -364,12 +364,9 @@
 
 ## Thanks for Visiting!
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
-    <!-- Placeholder image -->
-    <img id="actual-image" src="https://github.com/UchihaIthachi/UchihaIthachi/raw/main/img/sukuna-fire-arrow.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 1;">
-    <!-- Actual image (hidden initially) -->
-    <img src="https://github.com/UchihaIthachi/UchihaIthachi/raw/main/img/one.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0;" onload="this.style.opacity = 1;">
-</div>
+<p align="center">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece">
+</p>
 
 https://github.com/UchihaIthachi/UchihaIthachi/assets/130031227/92c46259-e451-4148-926d-a079d9af91da
 
