@@ -66,8 +66,8 @@
             <li>✔ Currently learning: Generative AI, NLP, AI, algorithms, DevOps, and web development 🥰</li>
             <li>✔ Seeking collaboration: Open Source projects</li>
             <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
-            <li>✔ Combative coder, undergraduate at UOM</li>
-            <li>✔ Fun fact: I constantly strive to learn something new, then sleep to let it sink in 😎</li>
+            <li>✔ Competitive coder, undergraduate at UOM</li>
+            <li>✔ Hobbies: coding, comics, manga, manhwa, anime, TV series, films, and sleep lover 😎</li>
         </ul>
     </div>
 </div>
@@ -350,10 +350,8 @@
 ## Thanks for Visiting!
 
 <p align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/one.gif" alt="one piece">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/pixel-art-asarge.gif" alt="guts vs griffth" height="230" width="90%">
 </p>
-
-https://github.com/UchihaIthachi/UchihaIthachi/assets/130031227/92c46259-e451-4148-926d-a079d9af91da
 
 <hr>
 
