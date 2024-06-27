@@ -157,7 +157,7 @@
 
 ## Top languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchihaIthachi&layout=compact&langs_count=10"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UchihaIthachi&layout=dount&langs_count=10"
     alt="UchihaIthachi Top lang">
 
   <!-- Horizontal divider (gradient) -->
