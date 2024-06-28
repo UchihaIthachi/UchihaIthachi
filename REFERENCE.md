@@ -17,7 +17,7 @@
 
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-### Widgets Needing GitHub Actions
+## Widgets Needing GitHub Actions
 
 - [Snake](https://github.com/Platane/snk)
 - [3D Contributions](https://github.com/yoshi389111/github-profile-3d-contrib)

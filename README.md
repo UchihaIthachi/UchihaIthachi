@@ -228,5 +228,7 @@ Last edited on: 19/06/2024
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## References
-For more details about my references and tools, check out [REFERENCE.md](REFERENCE.md).
+
+For more details about my references and tools, check out [REFERENCE.md](https://github.com/UchihaIthachi/UchihaIthachi/blob/main/REFERENCE.md).
