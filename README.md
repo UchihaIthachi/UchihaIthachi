@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
-<p align="center">Explore my work by visiting my [3D portfolio](https://harshanalf.netlify.app/)</p>
+<p align="center">Explore my work by visiting my [3D portfolio(https://harshanalf.netlify.app/)</p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshana Lakshara</h1>
 <p align="center">
