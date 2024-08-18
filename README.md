@@ -1,6 +1,6 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<p align="center"><h2><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Explore my work by visiting my <a href="https://harshanalf.netlify.app/">3D portfolio</a><h2></p>
 <div align=center>
         <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" height="230" width="90%">
 
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
-<p align="center">Explore my work by visiting my <a href="https://harshanalf.netlify.app/">3D portfolio</a></p>
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harshana Lakshara</h1>
@@ -39,23 +38,8 @@
     I am a <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;, <br>
     who is <b>obsessed</b> with <b>Web Engineering</b> and <b>Combative Coding</b>, always striving to uncover hidden patterns in data and solve challenging problems.
 </em>
-
-<hr>
-<div align=center>
-<div align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-  <b><i>"A dream can make a man feel alive. It gives him something to live for. But when that dream is over, it is no longer a dream. It becomes a burden." - Griffith</i></b>
-  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</div>
-
-</p>
-
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -80,7 +64,7 @@
 
 <!-- STACK -->
 <div align="center">
-  <h1>Tech Stack</h1>
+  <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b></h1>
 
   <!-- Languages -->
   <br>
@@ -141,7 +125,7 @@
 <!-- STATS -->
 
 <div align="center" width="100">
-  <h1>Statistics</h1>
+  <h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Statistics</b></h1>
 
 ## Streak Stats
 
@@ -204,6 +188,19 @@
   <br/>
 </div>
 </div>
+<hr>
+<div align=center>
+<div align="center">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
+  <b><i>"A dream can make a man feel alive. It gives him something to live for. But when that dream is over, it is no longer a dream. It becomes a burden." - Griffith</i></b>
+  <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</div>
+
+</p>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -229,9 +226,12 @@ Credit: [Harshana Lakshara Fernando](https://github.com/UchihaIthachi)
 
 Last edited on: 19/06/2024
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ## References
 
 For more details about my references and tools, check out [REFERENCE.md](https://github.com/UchihaIthachi/UchihaIthachi/blob/main/REFERENCE.md).
+
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
