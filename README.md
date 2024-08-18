@@ -1,6 +1,6 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<div style="text-align: center;">
+<div align="center">
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" alt="Earth gif">
     Explore my work by visiting my 
@@ -46,8 +46,9 @@
 </em>
 <!--horizontal divider(gradiant)-->
 <hr>
-<div style="text-align: center;">
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div align="center">
+<h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+</h1>
 </div>
 <hr>
 <picture> <img align="right" src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f64662f31612f66662f64663161666638333935363738643131623939623537356630653362313964352e676966.gif" width = 300px></picture>
