@@ -4,7 +4,7 @@
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" alt="Earth gif">
     Explore my work by visiting my 
-    <a href="https://harshanalf.netlify.app/">3D portfolio</a>
+    <a href="https://harshanalf.netlify.app/" target="_blank">3D portfolio</a>
   </h2>
 </div>
 <div align=center>
