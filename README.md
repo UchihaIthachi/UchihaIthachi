@@ -130,6 +130,7 @@
     <a href="#"><img src="https://img.shields.io/badge/HEDKORU-4A90E2?style=for-the-badge&logoColor=white" alt="HEDKORU"></a>
     <a href="#"><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></a>
     <a href="#"><img src="https://img.shields.io/badge/Batch_Script-4EAA25?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Script"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Frame_Animation-FF4500?style=for-the-badge&logo=frameanimation&logoColor=white" alt="Frame Animation"></a>
   </div>
 
   <!-- Platforms -->
