@@ -84,15 +84,14 @@
     <a href="#"><img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"></a>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
     <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
     <a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
     <a href="#"><img src="https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logo=VHDL&logoColor=white" alt="VHDL"></a>
   </div>
 
-  <!-- Frameworks -->
+  <!-- Frameworks & Libraries -->
   <br>
-  <h3>Frameworks</h3>
+  <h3>Frameworks & Libraries</h3>
   <hr>
   <div class="animated-frame">
     <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
@@ -102,13 +101,25 @@
     <a href="#"><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></a>
     <a href="#"><img src="https://img.shields.io/badge/Rasa-6A1B9A?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa"></a>
     <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"></a>
     <a href="#"><img src="https://img.shields.io/badge/Lucia-4A4A55?style=for-the-badge&logo=lucia&logoColor=white" alt="Lucia"></a>
     <a href="#"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"></a>
   </div>
 
-  <!-- Tools -->
+  <!-- Databases -->
   <br>
-  <h3>Tools</h3>
+  <h3>Databases</h3>
+  <hr>
+  <div class="animated-frame">
+    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
+  </div>
+
+  <!-- Tools & Platforms -->
+  <br>
+  <h3>Tools & Platforms</h3>
   <hr>
   <div class="animated-frame">
     <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
@@ -122,26 +133,21 @@
     <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
     <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></a>
     <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
-    <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></a>
     <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
     <a href="#"><img src="https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"></a>
-    <a href="#"><img src="https://img.shields.io/badge/HEDKORU-4A90E2?style=for-the-badge&logoColor=white" alt="HEDKORU"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Batch_Script-4EAA25?style=for-the-badge&logo=windows&logoColor=white" alt="Batch Script"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Frame_Animation-FF4500?style=for-the-badge&logo=frameanimation&logoColor=white" alt="Frame Animation"></a>
+    <a href="#"><img src="https://img.shields.io/badge/HEDKORU-4A90E2?style=for-the-badge&logo=hedkoru&logoColor=white" alt="HEDKORU"></a>
   </div>
 
-  <!-- Platforms -->
+  <!-- Testing -->
   <br>
-  <h3>Platforms</h3>
+  <h3>Testing</h3>
   <hr>
   <div class="animated-frame">
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
-    <a href="#"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Unittest-323330?style=for-the-badge&logo=python&logoColor=white" alt="Unittest"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
   </div>
 </div>
 
