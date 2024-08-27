@@ -61,7 +61,7 @@
             <li>✔ Seeking collaboration: Open Source projects</li>
             <li>✔ Feel free to ask me anything; if I'm alive, you'll get a response within seconds 😉</li>
             <li>✔ Competitive coder, undergraduate at UOM</li>
-            <li>✔ Hobbies: coding, comics, manga, manhwa, anime, TV series, films, and sleep lover 😎</li>
+            <li>✔ Hobbies: coding, comics, manga, manhwa, anime, TV series, films</li>
         </ul>
     </div>
 </div>
