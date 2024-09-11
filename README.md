@@ -1,16 +1,18 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto;" alt="Neon Line">
+
 <div align="center">
   <h2>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" alt="Earth gif">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
     Explore my work by visiting my 
     <a href="https://harshanalf.netlify.app/" target="_blank">3D portfolio</a>
   </h2>
 </div>
-<div align=center>
-        <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" height="230" width="90%">
 
-   </div>
+<div align="center">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 90%;" />
+</div>
+
   <div align=center>
 	<img src="https://readme-typing-svg.herokuapp.com?color=%23000000&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Harshana+%F0%9F%91%8B;Computer+Science+Student;Problem+Solver;Open-Source+Enthusiast;Fullstack+Developer;DevOps+Engineer;Software+Engineer" alt="Headline" />
     </div>
