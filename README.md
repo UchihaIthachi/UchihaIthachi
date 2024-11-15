@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 630px;" />
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 930px;" />
 </div>
 
   <div align=center>
