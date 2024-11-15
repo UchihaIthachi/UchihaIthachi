@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto;" alt="Neon Line">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon Line" >
 
 <div align="center">
   <h2>
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 90%;" />
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 630px;" />
 </div>
 
   <div align=center>
