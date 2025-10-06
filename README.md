@@ -67,7 +67,7 @@
 </details>
 
 <!-- ===== 🧰 Tech Stack (compact) ===== -->
-<details open>
+<details>
 <summary><b>🧰 Tech Stack (compact)</b></summary>
 
 **Core**
@@ -119,7 +119,7 @@
 </details>
 
 <!-- ===== 📊 Stats ===== -->
-<details open>
+<details>
 <summary><b>📊 GitHub Stats</b></summary>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=UchihaIthachi&theme=transparent&hide_border=true" alt="GitHub Streak" />
