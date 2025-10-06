@@ -5,7 +5,10 @@
 
 <div align="center">
   <!-- Hero -->
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Berserk intro" width="900" />
+  
+<div align="center">
+  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/guts.gif" alt="Intro" style="height: 230px; width: 930px;" />
+</div>
   
   <h1>Harshana Lakshara Fernando</h1>
   <p><b>CS @ University of Moratuwa</b> • Cloud-Native • Distributed Systems • GenAI + DevOps • Web3</p>
