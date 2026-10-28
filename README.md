@@ -11,10 +11,10 @@
 </div>
   
   <h1>Harshana Lakshara Fernando</h1>
-  <p><b>CS @ University of Moratuwa</b> • Cloud-Native • Distributed Systems • GenAI + DevOps • Web3</p>
+  <p><b>Software Engineer – Trading Systems @ CAL</b> • Go &amp; Kubernetes open source • Distributed Systems • Cloud-Native</p>
 
   <!-- Socials / quick links (keep only working links) -->
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkin" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://www.hackerrank.com/profile/210167e_cse_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> <a href="https://leetcode.com/HarshanaUOM/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a> <a href = "mailto: "><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a> <a href="https://harshanalf.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="3D Portfolio" height="30" width="40" /></a>
+  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkin" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://www.hackerrank.com/profile/210167e_cse_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> <a href="https://leetcode.com/HarshanaUOM/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a> <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a> <a href="mailto:harshanalf.work@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a> <a href="https://harshanalf.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="3D Portfolio" height="30" width="40" /></a>
 
   <!-- Quick facts -->
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-00B140?style=flat-square" alt="Focus" />
@@ -27,14 +27,33 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
+<!-- ===== 🌱 Open Source ===== -->
+<h3 align="center">🌱 Open Source</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20merged-3-2ea44f?style=flat-square&logo=github" alt="3 PRs merged" />
+  <img src="https://img.shields.io/badge/In%20review-2-dbab09?style=flat-square&logo=github" alt="2 PRs in review" />
+  <img src="https://img.shields.io/badge/Shipped%20in-kgateway%20v2.5-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Shipped in kgateway v2.5" />
+</p>
+
+| Project | PR | What | Status |
+|---|---|---|---|
+| [kgateway](https://github.com/kgateway-dev/kgateway) (CNCF) | [#14851](https://github.com/kgateway-dev/kgateway/pull/14851) | `kgateway_build_info` Prometheus metric, shipped in v2.5.0-beta.2 | ✅ Merged |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1549](https://github.com/containers/kubernetes-mcp-server/pull/1549) | Test that every tool, prompt and resource declares RBAC metadata | ✅ Merged |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1482](https://github.com/containers/kubernetes-mcp-server/pull/1482) | Fix flaky HTTP server startup in tests | ✅ Merged |
+| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3249](https://github.com/kubeflow/spark-operator/pull/3249) | Ginkgo tests, 100% of executor metrics (LGTM) | 🔍 In review |
+| [KEDA](https://github.com/kedacore/keda) (CNCF) | [#8317](https://github.com/kedacore/keda/pull/8317) | `onlyReadyPods` option for the workload scaler | 🔍 In review |
+
+<p align="center"><sub>Full list with details: <a href="https://harshanalf.netlify.app/portfolio#open-source">portfolio</a> · <a href="https://uchihaithachi.github.io/cv/open-source.html">CV site</a></sub></p>
+
 <!-- ===== 🙋 About ===== -->
 <details>
   <summary><b>🙋 About me</b></summary>
 
   <p align="center">
     <em>
-      Hello! I'm Harshana Fernando, a <b>final-year</b> undergraduate at the
-      <a href="https://uom.lk/" title="Wisdom is all wealth"><b>University of Moratuwa</b>, Sri Lanka</a>.<br>
+      Hello! I'm Harshana Fernando, a <b>Software Engineer – Trading Systems</b> at CAL in Colombo, Sri Lanka
+      (Computer Science &amp; Engineering, <a href="https://uom.lk/" title="Wisdom is all wealth"><b>University of Moratuwa</b></a>).<br>
       I'm a <b>passionate self-learner</b>
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30">
       and a <b>software engineer</b>
@@ -48,7 +67,8 @@
   </p>
 
   <p>
-    Currently pursuing <b>CKA</b> and <b>AWS Solutions Architect</b> certifications to deepen my cloud-native expertise.
+    At CAL I'm the sole engineer on an in-house electronic trading platform connected directly to the Colombo Stock Exchange
+    (FIX 5.0 SP2 order routing, an event-sourced engine on Chronicle Queue, Java 21). Outside work I contribute to CNCF and Kubeflow projects in Go.
     When I’m not shipping production-grade backends or tuning infra, I’m grinding <b>LeetCode</b> &amp; <b>HackerRank</b>.
   </p>
 
@@ -210,11 +230,8 @@
   <a href="https://harshanalf.netlify.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-harshanalf.netlify.app-222?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="mailto:2020thlf@gmail.com">
-    <img alt="Email (Personal)" src="https://img.shields.io/badge/Email-2020thlf%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="mailto:lakshara.21@cse.mrt.ac.lk">
-    <img alt="Email (UoM)" src="https://img.shields.io/badge/Email-UoM-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:harshanalf.work@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-harshanalf.work%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://leetcode.com/HarshanaUOM/">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-HarshanaUOM-ffa116?style=for-the-badge&logo=leetcode&logoColor=white" />
@@ -234,7 +251,7 @@
 </details>
 
 <p align="center">
-  <sub>Thanks for visiting — Projects & details live on my <a href="https://harshanalf.netlify.app/">Portfolio</a>. Last updated: 2025-10-06</sub>
+  <sub>Thanks for visiting — Projects & details live on my <a href="https://harshanalf.netlify.app/">Portfolio</a>. Last updated: 2026-10-28</sub>
 </p>
 
 <p align="center">
