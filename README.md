@@ -27,25 +27,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 </p>
 
-<!-- ===== 🌱 Open Source ===== -->
-<h3 align="center">🌱 Open Source</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PRs%20merged-3-2ea44f?style=flat-square&logo=github" alt="3 PRs merged" />
-  <img src="https://img.shields.io/badge/In%20review-2-dbab09?style=flat-square&logo=github" alt="2 PRs in review" />
-  <img src="https://img.shields.io/badge/Shipped%20in-kgateway%20v2.5-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Shipped in kgateway v2.5" />
-</p>
-
-| Project | PR | What | Status |
-|---|---|---|---|
-| [kgateway](https://github.com/kgateway-dev/kgateway) (CNCF) | [#14851](https://github.com/kgateway-dev/kgateway/pull/14851) | `kgateway_build_info` Prometheus metric, shipped in v2.5.0-beta.2 | ✅ Merged |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1549](https://github.com/containers/kubernetes-mcp-server/pull/1549) | Test that every tool, prompt and resource declares RBAC metadata | ✅ Merged |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1482](https://github.com/containers/kubernetes-mcp-server/pull/1482) | Fix flaky HTTP server startup in tests | ✅ Merged |
-| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3249](https://github.com/kubeflow/spark-operator/pull/3249) | Ginkgo tests, 100% of executor metrics (LGTM) | 🔍 In review |
-| [KEDA](https://github.com/kedacore/keda) (CNCF) | [#8317](https://github.com/kedacore/keda/pull/8317) | `onlyReadyPods` option for the workload scaler | 🔍 In review |
-
-<p align="center"><sub>Full list with details: <a href="https://harshanalf.netlify.app/portfolio#open-source">portfolio</a> · <a href="https://uchihaithachi.github.io/cv/open-source.html">CV site</a></sub></p>
-
 <!-- ===== 🙋 About ===== -->
 <details>
   <summary><b>🙋 About me</b></summary>
@@ -106,16 +87,36 @@
 <details open>
 <summary><b>🌱 Open Source</b></summary>
 
-| Project | Contribution | Status |
-|---|---|---|
-| [kgateway](https://github.com/kgateway-dev/kgateway) | [#14851](https://github.com/kgateway-dev/kgateway/pull/14851): new `kgateway_build_info` Prometheus metric, shipped in kgateway v2.5.0-beta.2 | ✅ Merged |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1482](https://github.com/containers/kubernetes-mcp-server/pull/1482): fixed flaky HTTP server startup in the test suite | ✅ Merged |
-| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3249](https://github.com/kubeflow/spark-operator/pull/3249): Ginkgo unit tests for executor metrics (100% of `sparkpod_metrics.go`) and a log message fix | 🔍 In review |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1549](https://github.com/containers/kubernetes-mcp-server/pull/1549): test that every tool, prompt and resource declares RBAC metadata | 🔍 In review |
-| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1568](https://github.com/containers/kubernetes-mcp-server/issues/1568): showed a reported "flaky" test was a real merge-order bug; the author confirmed and applied the fix | 🧩 Root-caused |
-| [KEDA](https://github.com/kedacore/keda) | [#4394](https://github.com/kedacore/keda/issues/4394): `podStates` option for the workload scaler (count pods by phase / Ready) | 🛠️ Assigned |
-| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3130](https://github.com/kubeflow/spark-operator/issues/3130): evaluated crd-ref-docs vs genref for the API reference docs migration | 🛠️ Assigned |
+<p>
+  <img src="https://img.shields.io/badge/PRs%20merged-3-2ea44f?style=flat-square&logo=github" alt="3 PRs merged" />
+  <img src="https://img.shields.io/badge/In%20review-3-dbab09?style=flat-square&logo=github" alt="3 PRs in review" />
+  <img src="https://img.shields.io/badge/Projects-4-6f42c1?style=flat-square&logo=cncf&logoColor=white" alt="4 projects" />
+  <img src="https://img.shields.io/badge/Shipped%20in-kgateway%20v2.5-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Shipped in kgateway v2.5" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Updated-28%20Oct%202026-555?style=flat-square" alt="Updated 28 Oct 2026" />
+</p>
 
+**Pull requests**
+
+| Project | PR | What I did | Size | Timeline | Status |
+|---|---|---|---|---|---|
+| [kgateway](https://github.com/kgateway-dev/kgateway) (CNCF) | [#14851](https://github.com/kgateway-dev/kgateway/pull/14851) | New `kgateway_build_info` Prometheus metric (version, revision, Go version, OS/arch) so operators can see which build every pod runs. The maintainer extended it into a reusable `metrics.NewInfo` helper; issue [#13457](https://github.com/kgateway-dev/kgateway/issues/13457) closed as completed | 5 files · +113 | Opened 18 Oct → merged 20 Oct 2026 | <img src="https://img.shields.io/badge/Merged-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Merged" /><br><img src="https://img.shields.io/badge/Shipped%20in-v2.5.0--beta.2-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Shipped in-v2.5.0-beta.2" /> |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1549](https://github.com/containers/kubernetes-mcp-server/pull/1549) | Test that every tool, prompt, resource and resource template across all 12 toolsets declares valid RBAC metadata, using a real cluster inspector. All 14 CI checks green on the first run, approved on the first review (closes [#1435](https://github.com/containers/kubernetes-mcp-server/issues/1435)) | 1 file · +33 | Opened 20 Oct → merged 26 Oct 2026 | <img src="https://img.shields.io/badge/Merged-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Merged" /> |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1482](https://github.com/containers/kubernetes-mcp-server/pull/1482) | Fixed flaky HTTP server startup on the slow macOS CI runner: a 5 s readiness poll instead of a ~0.5 s retry loop, and test setup now cleans up before failing. Two review rounds (closes [#1445](https://github.com/containers/kubernetes-mcp-server/issues/1445)) | 2 files · +14 −14 | Opened 8 Oct → merged 15 Oct 2026 | <img src="https://img.shields.io/badge/Merged-2ea44f?style=flat-square&logo=github&logoColor=white" alt="Merged" /> |
+| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3249](https://github.com/kubeflow/spark-operator/pull/3249) | 20 Ginkgo specs for executor metrics: every pod-phase transition, label sanitising and registration error paths, 100% of `sparkpod_metrics.go`; plus a fix for a wrong failure-count log message. Requested by a maintainer under [#3202](https://github.com/kubeflow/spark-operator/issues/3202); review changes done | 3 files · +228 | Opened 18 Oct · `/lgtm` 20 Oct · waiting for `/approve` | <img src="https://img.shields.io/badge/In%20review-dbab09?style=flat-square&logo=github&logoColor=white" alt="In review" /><br><img src="https://img.shields.io/badge/LGTM-0e8a16?style=flat-square&logo=kubernetes&logoColor=white" alt="LGTM" /> |
+| [KEDA](https://github.com/kedacore/keda) (CNCF) | [#8317](https://github.com/kedacore/keda/pull/8317) | `onlyReadyPods` option for the Kubernetes workload scaler: counts only pods that are Running and Ready (not terminating), so scaling ignores pods that can't serve yet. Design agreed with a maintainer on [#4394](https://github.com/kedacore/keda/issues/4394); labelled `kind/feature` | 5 files · +207 −9 | Opened 27 Oct 2026 | <img src="https://img.shields.io/badge/In%20review-dbab09?style=flat-square&logo=github&logoColor=white" alt="In review" /><br><img src="https://img.shields.io/badge/docs-done-0e8a16?style=flat-square&logo=readthedocs&logoColor=white" alt="docs-done" /> |
+| [KEDA docs](https://github.com/kedacore/keda-docs) | [#1919](https://github.com/kedacore/keda-docs/pull/1919) | Documentation for the new `onlyReadyPods` parameter (companion to #8317) | 1 file · +4 | Opened 27 Oct 2026 | <img src="https://img.shields.io/badge/In%20review-dbab09?style=flat-square&logo=github&logoColor=white" alt="In review" /> |
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1521](https://github.com/containers/kubernetes-mcp-server/pull/1521) | Fixed `main` not building after two PRs merged out of order (Kiali status probe). The maintainer merged his own fix ([#1526](https://github.com/containers/kubernetes-mcp-server/pull/1526)) with the same code change plus a test | 1 file · +6 −2 | Opened 17 Oct · closed 20 Oct 2026 | <img src="https://img.shields.io/badge/Superseded-6e7781?style=flat-square&logo=github&logoColor=white" alt="Superseded" /> |
+
+**Issues, debugging and design work**
+
+| Project | Issue | What I did | When | Status |
+|---|---|---|---|---|
+| [kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | [#1568](https://github.com/containers/kubernetes-mcp-server/issues/1568) | Showed a "flaky" test on another contributor's PR was a real merge-order bug, reproduced it and suggested the fix; the author confirmed, applied it and closed the issue as root-caused | 25 Oct 2026 | <img src="https://img.shields.io/badge/Root--caused-8250df?style=flat-square&logo=go&logoColor=white" alt="Root-caused" /> |
+| [Kubeflow Spark Operator](https://github.com/kubeflow/spark-operator) | [#3130](https://github.com/kubeflow/spark-operator/issues/3130) | Evaluated crd-ref-docs vs genref for migrating the API reference docs generator: sample output, line counts and field-accuracy checks (genref marked some optional fields as required); recommended crd-ref-docs | Assigned 22 Oct 2026 | <img src="https://img.shields.io/badge/Assigned-1f6feb?style=flat-square&logo=kubeflow&logoColor=white" alt="Assigned" /> |
+| [kgateway](https://github.com/kgateway-dev/kgateway) (CNCF) | [#14835](https://github.com/kgateway-dev/kgateway/issues/14835) | Metrics audit: posted an inventory of findings and offered a cleanup PR for the maintainer to pick | 22 Oct 2026 | <img src="https://img.shields.io/badge/Awaiting%20reply-6e7781?style=flat-square&logo=github&logoColor=white" alt="Awaiting reply" /> |
+
+<sub>Also on my <a href="https://harshanalf.netlify.app/portfolio#open-source">portfolio</a> and <a href="https://uchihaithachi.github.io/cv/open-source.html">CV site</a>.</sub>
 </details>
 
 
